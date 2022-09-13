@@ -27,6 +27,6 @@
 
 8) Wizard should be complete.
 
-9) Shut down PC, remove the bootable USB drive / DMI tool, start computer.
+9) Shut down PC, remove the bootable USB drive / DMI tool, and restart the computer.
 
 10) All HP pre-BIOS errors/countdowns/lockouts should now be resolved.
