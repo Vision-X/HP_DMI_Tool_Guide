@@ -5,7 +5,7 @@
 ## Booting into the tool
 
 
-1) Power on  machine and press "F9" to enter boot menu (alternatively, you can use "F12" to enter BIOS Select menu and then choose boot menu in the list)
+1) Plug the Bootable USB into an open port and Power on the machine. Quickly press "F9" to enter boot menu (alternatively, you can use "F12" to enter BIOS Select menu and then choose boot menu in the list)
 
 2) Select Bootable USB image (HP DMI / Branding tool)
 
