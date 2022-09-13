@@ -1,5 +1,5 @@
 # HP_DMI_Tool_Guide 
-(run **After** replacing HP hardware)
+(run **AFTER** replacing HP hardware)
 
 
 ## Booting into the tool
