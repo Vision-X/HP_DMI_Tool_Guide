@@ -9,7 +9,7 @@
 
 2) Select Bootable USB image (HP DMI / Branding tool)
 
-3) Allow shell script to run and it will bring you to an options screen. Select 'Configure DMI'.
+3) Allow shell script to run and it will bring you to an options screen. Select 'Enter DMI information'.
 
 4) Follow guided steps in the DMI tool. 
 
@@ -19,11 +19,11 @@
   
   - For Prod ID, please note it is case sensitive AND will require both IMG_Desc1 and IMG_Desc2 to be entered (with no space in between) as one string
   
-5) Complete DMI update (following the steps) and it will reboot into the DMI tool.
+5) Complete DMI update (following the steps) and it will reboot into the DMI tool (F9 at boot if necessary).
 
-6) Commit the updated TPM data and it will reboot into the DMI tool.
+6) In the DMI menu, select 'Configure / Update TPM'. Follow the steps and commit the updated TPM data and it will reboot into the DMI tool (or F9 on boot).
 
-7) Finally, Lock the TPM.
+7) Finally, in the DMI menu select 'Lock MPM' and follow the steps.
 
 8) Wizard should be complete.
 
