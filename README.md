@@ -15,7 +15,7 @@
 
   - If data is not auto-populating in the forms then you will need to look up the serial number on [partsurfer.hp.com](https://partsurfer.hp.com/partsurfer?searchby=swp)
 
-  - Use the `Advanced` tab after searching the serial number to locate the required info (use CTRL + F to search the page for the value)
+  - Use the `Advanced` tab after searching the serial number to locate the required info (use `CTRL` + `F` to search the page for the value)
   
   - For Prod ID, please note it is case sensitive AND will require both `IMG_Desc1` and `IMG_Desc2` to be entered (with no space in between) as one string
   
